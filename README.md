@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @geetika-tadlimbekar
-- 👀 I’m interested in data analysis and data science.
-- 🌱 I’m currently learning machine learning and statistics
 - 📫 How to reach me @linkedIn : Geetika Tadlimbekar
 
 <!---
